@@ -5,6 +5,7 @@ import (
 	"strings"
 )
 
+// basics
 func main() {
 
 	fmt.Println("--Variables--")
